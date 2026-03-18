@@ -1,0 +1,14 @@
+C:\Users\Pieter\C+\FinalApp\bin\Debug\net10.0\FinalApp.exe
+C:\Users\Pieter\C+\FinalApp\bin\Debug\net10.0\FinalApp.deps.json
+C:\Users\Pieter\C+\FinalApp\bin\Debug\net10.0\FinalApp.runtimeconfig.json
+C:\Users\Pieter\C+\FinalApp\bin\Debug\net10.0\FinalApp.dll
+C:\Users\Pieter\C+\FinalApp\bin\Debug\net10.0\FinalApp.pdb
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.AssemblyInfoInputs.cache
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.AssemblyInfo.cs
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.dll
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\refint\FinalApp.dll
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.pdb
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\FinalApp.genruntimeconfig.cache
+C:\Users\Pieter\C+\FinalApp\obj\Debug\net10.0\ref\FinalApp.dll
